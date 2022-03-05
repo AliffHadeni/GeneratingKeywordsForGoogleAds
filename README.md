@@ -1,0 +1,2 @@
+# GeneratingKeywordsForGoogleAds
+Python Mini Project
